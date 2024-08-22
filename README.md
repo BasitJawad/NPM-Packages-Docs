@@ -6,8 +6,8 @@ Welcome to the **Node.js & React Documentation Hub**—your essential resource f
 
 ## Explore More:
 
-- [NodeJs/Clusters](./NodeJs/Clusters/README.md)
-- [ReactJS](./ReactJS/README.md)
+- [NodeJs/Clusters](./NodeJs)
+- [ReactJS](./ReactJS)
 - 
 ### Node.js Documentation
 Explore comprehensive guides covering:
