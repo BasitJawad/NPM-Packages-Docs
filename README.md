@@ -4,11 +4,10 @@ Welcome to the **Node.js & React Documentation Hub**—your essential resource f
 
 ## What's Inside
 
-## Explore More:
-
+![Penguins Coding](https://media1.giphy.com/media/ua7vVw9awZKWwLSYpW/200w.webp?cid=ecf05e47gwofdnm0pd9z76gveambdevstabb24p8ow2hvhz6&ep=v1_gifs_related&rid=200w.webp&ct=g)
 - [NodeJs](https://github.com/BasitJawad/NPM-Packages-Docs/tree/main/NPM-Packages_Docs/NodeJs/Clusters)
 - [ReactJS-Packages](https://github.com/BasitJawad/NPM-Packages-Docs/tree/main/NPM-Packages_Docs/ReactJS)
-  
+
 ### Node.js Documentation
 Explore comprehensive guides covering:
 - Core modules
