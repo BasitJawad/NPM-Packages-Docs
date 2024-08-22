@@ -6,9 +6,9 @@ Welcome to the **Node.js & React Documentation Hub**—your essential resource f
 
 ## Explore More:
 
-- [NodeJs](./NPM-Packages-Docs/NodeJs)
-- [ReactJS](./NPM-Packages-Docs/ReactJS)
-- 
+- [NodeJs](./NodeJs)
+- [ReactJS](./ReactJS)
+  
 ### Node.js Documentation
 Explore comprehensive guides covering:
 - Core modules
